@@ -1,2 +1,1 @@
-# CSE330
-Object-Oriented Software Development Lab Projects
+# CSE330 Object-Oriented Software Development Lab Projects
